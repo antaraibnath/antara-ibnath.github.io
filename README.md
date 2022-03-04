@@ -1,2 +1,2 @@
-# antara-ibnath.github.io
+# antaraibnath.github.io
 https://antaraibnath.github.io/github
